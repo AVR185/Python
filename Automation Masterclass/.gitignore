@@ -1,0 +1,7 @@
+*.env
+.venv/
+.pylintrc
+*.db
+.vscode/
+.DS_Store
+*.pyc
